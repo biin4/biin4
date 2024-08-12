@@ -1,2 +1,2 @@
-Computer science student 
-18 years old
+- Computer science student 
+- 18 years old
