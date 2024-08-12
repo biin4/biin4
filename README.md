@@ -1,3 +1,1 @@
-- 👋 Oii, eu sou a Sabrina
-- Tenho 17 anos
-- Estudante de Informática
+
